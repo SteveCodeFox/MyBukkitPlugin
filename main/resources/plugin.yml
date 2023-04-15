@@ -1,0 +1,4 @@
+name: SCFProject
+version: '${version}'
+main: com.scf.scfproject.SCFProject
+api-version: 1.16
