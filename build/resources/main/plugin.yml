@@ -1,0 +1,4 @@
+name: SCFProject
+version: '0.0.1-Alpha-Gradle'
+main: com.scf.scfproject.SCFProject
+api-version: 1.16
