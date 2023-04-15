@@ -1,6 +1,6 @@
 # MyBukkitPlugin
 
-[下载地址](https://github.com/SteveCodeFox/MyBukkitPlugin/release)
+[下载地址](https://github.com/SteveCodeFox/MyBukkitPlugin/releases)
 
 ## 这个插件的作用
 
